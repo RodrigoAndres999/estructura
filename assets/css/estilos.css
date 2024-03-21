@@ -31,3 +31,9 @@ nav ul li{
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
